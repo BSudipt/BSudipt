@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSudipt
 - 👀 I’m interested in Coding, Web Technology and learning human resource management skills.
-- 🌱 I’m currently learning an engineering student.
+- 🌱 I’m currently learning, an engineering student.
 - 💞️ I’m looking to collaborate on learning programming languages.
 - 📫 reach me at - baruasudipta589@gmail.com 
 
